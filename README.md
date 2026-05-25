@@ -49,6 +49,11 @@ Example:
 publisher_->publish(msg);
 ```
 
+```Python：
+import math
+math.sin(1)
+```
+
 Purpose:
 
 ```text
