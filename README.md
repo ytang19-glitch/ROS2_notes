@@ -10,11 +10,13 @@ A simple explanation of the ROS2 communication architecture.
 Your ROS2 Code
         ↓
 +-------------------+
+| ROS2 cllent layer |
 |      rclcpp       |
 | ROS2 C++ API      |
 +-------------------+
         ↓
 +-------------------+
+|DDS interface layer|
 |        RMW        |
 | ROS Middleware    |
 | DDS abstraction   |
