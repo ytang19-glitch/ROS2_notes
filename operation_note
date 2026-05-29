@@ -22,4 +22,16 @@ ros2 run turtlesim turtle_teleop_key
 
 check file: ls
 
+ls  = list_ chekc all 
 
+cd  = change directory
+
+pwd = print working directory
+
+mkdir = create file
+
+rm = delete
+
+cp = replicate
+
+mv = move
