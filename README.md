@@ -7,7 +7,10 @@ A simple explanation of the ROS2 communication architecture.
 # ROS2 Communication Stack
 
 ```text
-Your ROS2 Code
++-------------------+
+| Application layer |
+|    Client code    |
++-------------------+
         ↓
 +-------------------+
 | ROS2 cllent layer |
