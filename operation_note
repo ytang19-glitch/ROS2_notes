@@ -35,3 +35,16 @@ rm = delete (remove)
 cp = replicate (copy)
 
 mv = move
+
+
+cd ~      # home directory 
+
+cd /      # boot directory
+
+cd ..     # previous level
+
+cd -      # back last directory
+
+
+
+
