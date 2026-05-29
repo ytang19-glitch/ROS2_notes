@@ -4,3 +4,12 @@ check the links by
 terminal
 rqt: 
 nogh
+
+Create the turtle
+one terminal :
+ ros2 run turtlesim
+ ros2 run turtlesim turtlesim_node
+
+control the turtle
+the other :
+ros2 run turtlesim turtle_teleop_key
