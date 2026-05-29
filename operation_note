@@ -45,6 +45,12 @@ cd ..     # previous level
 
 cd -      # back last directory
 
+Note:
+
+~      = My home 
+cd ~   = back home
+
+~/xxx  = xxx in home
 
 
 
