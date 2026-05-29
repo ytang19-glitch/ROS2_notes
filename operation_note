@@ -30,8 +30,8 @@ pwd = print working directory
 
 mkdir = create file
 
-rm = delete
+rm = delete (remove)
 
-cp = replicate
+cp = replicate (copy)
 
 mv = move
