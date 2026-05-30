@@ -52,5 +52,22 @@ cd ~   = back home
 
 ~/xxx  = xxx in home
 
+In the ternimal of linux:
+
+nano hello_world.txt
+
+Mean：
+
+nano → 打开 Nano 文本编辑器
+hello_world.txt → 要编辑的文件名
+
+“ ^ ” represent “ Ctrl ” 
+hello_world.txt  is the file we create before ; mkdir + name 
+ctrl O: 
+ctrl X:
+
+
+
+
 
 
